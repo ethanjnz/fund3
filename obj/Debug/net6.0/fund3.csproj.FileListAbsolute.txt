@@ -1,0 +1,15 @@
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\bin\Debug\net6.0\fund3.exe
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\bin\Debug\net6.0\fund3.deps.json
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\bin\Debug\net6.0\fund3.runtimeconfig.json
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\bin\Debug\net6.0\fund3.dll
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\bin\Debug\net6.0\fund3.pdb
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\obj\Debug\net6.0\fund3.csproj.AssemblyReference.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\obj\Debug\net6.0\fund3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\obj\Debug\net6.0\fund3.AssemblyInfoInputs.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\obj\Debug\net6.0\fund3.AssemblyInfo.cs
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\obj\Debug\net6.0\fund3.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\obj\Debug\net6.0\fund3.dll
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\obj\Debug\net6.0\refint\fund3.dll
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\obj\Debug\net6.0\fund3.pdb
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\obj\Debug\net6.0\fund3.genruntimeconfig.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\fund3\obj\Debug\net6.0\ref\fund3.dll
